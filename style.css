@@ -1,0 +1,37 @@
+body{
+    background-position:center;
+    background-size:cover;
+}
+
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px darkblue;
+}
+.note
+{
+    font-size:15px;
+    color:black;
+
+}
+.copy_right_footer
+{
+    color:black;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align:center;
+    margin-top:600px;
+    text-shadow:5px 5px 5px pink;
+    font-family:monospace;
+    bottom:0;
+    position:fixed;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    
+}
